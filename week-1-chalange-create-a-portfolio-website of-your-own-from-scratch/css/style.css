@@ -8,7 +8,7 @@ Developed @ One Month in NYC
 */
 
 body {
-	background: #000000;
+	background: url('../images/cookie-monster.jpg');
 	/* the follow is the code to have the image display as a full page */
 	background-position: center;
 	background-attachment: fixed;
@@ -18,3 +18,24 @@ body {
 	background-size: cover;
 }
 
+#container {
+	background: black;
+	width: 424px;
+	color: white;
+	padding: 15px;
+}
+
+h1{
+	font-size: 80px;
+}
+h2{
+	background-color: #75C1F6;
+	color: black;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+a {
+	color: #75C1F6;
+	text—decoration: none;
+}
