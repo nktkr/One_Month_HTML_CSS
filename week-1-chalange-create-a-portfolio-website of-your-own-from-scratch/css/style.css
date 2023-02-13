@@ -1,14 +1,14 @@
 /* 
 
-Project Name: Cookie Monster 
-Client: Cookie Monster
-Author: Chris Castiglione | www.twitter.com/castig | www.castig.org 
-Developed @ One Month in NYC 
+Project Name: Portfolio Wesite of my frined vipul 
+Client: Vipul Yadav
+Author: Ankit Kumar Singh | https://github.com/nktkr
+Developed in India with love
 
 */
 
 body {
-	background: url('../images/cookie-monster.jpg');
+	background: url('../images/background.jpg');
 	/* the follow is the code to have the image display as a full page */
 	background-position: center;
 	background-attachment: fixed;
@@ -19,23 +19,65 @@ body {
 }
 
 #container {
-	background: black;
-	width: 424px;
+	background: rgba(40, 62, 208, 0.757);
+	width: 600px;
+	border-radius: 5px;
 	color: white;
 	padding: 15px;
+	position: fixed;
+  top: 10px;
+  right: 10px;
 }
 
+img{
+		width: 45px;
+		height: 45px;
+	}
 h1{
-	font-size: 80px;
-}
-h2{
-	background-color: #75C1F6;
-	color: black;
-	padding: 5px;
-	border-radius: 5px;
+	font-size: 90px;
 }
 
+h2{
+	background-color: #534ef0;
+	color: rgb(255, 255, 255);
+	padding: 5px;
+	border-radius: 7px;
+	font-size: 30px;
+}
+h3{
+	background-color: #5285e9;
+	color: rgb(255, 255, 255);
+	padding: 5px;
+	border-radius: 7px;
+}
+p{
+	font-size: 20px;
+}
 a {
 	color: #75C1F6;
 	text—decoration: none;
+}
+
+/* botton copy pasted because i have yet not learned buttons */
+button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 30px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #ce21bc;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #6bd4f0;
+}
+
+button:hover {background-color: #58087a}
+
+button:active {
+  background-color: #2629c6;
+  box-shadow: 0 5px #7ab3ed;
+  transform: translateY(4px);
 }
