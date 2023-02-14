@@ -1,9 +1,8 @@
 /*
-Project Name: Column Layout
-Author: Chris Castiglione @ onemonthhtml.com
+Project Name: Cat blog Column Layout
+Author: Ankit Kr Singh @github/nktkr
 Developed @ One Month in NYC
 */
-
 
 
 /*----------------------------------------------------------------------------- 
@@ -22,10 +21,49 @@ Developed @ One Month in NYC
 	clear: both;
 }
 
+.alignleft {
+     float: left;
+     margin: 0 15px 15px 0;
+}
 
+.alignright {
+     float: right;
+     margin: 0 15px 15px 0;
+}
 
 /*----------------------------------------------------------------------------- 
 =02 LAYOUT 
 -----------------------------------------------------------------------------*/
 
+#container {
+     width: 1000px;
+     margin: 0 auto 0 auto;
 
+}
+
+#header { 
+     background: silver;
+     padding: 50px;
+
+}
+
+#main {
+     background: skyblue;
+     padding: 50px;
+     width: 700px;   
+     float: left;  
+}
+
+#sidebar {
+     background: pink;
+     width: 300px;
+     padding: 50px;
+     float: left;
+
+}
+
+#footer {
+     background: peachpuff;
+     padding: 50px;
+     
+}
