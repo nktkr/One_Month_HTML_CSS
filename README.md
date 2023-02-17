@@ -4,8 +4,8 @@
 
 - The content is stored in weeekly manner
 
-### Link of the deployed project
-
+### All project deployed at below link
+https://nktkr-onemonth.pages.dev/
 
 
 
