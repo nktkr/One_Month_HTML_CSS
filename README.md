@@ -5,7 +5,7 @@
 ## Checkout the deployed project
 
 | Project/Chalange Name                                     | Live Demo link                                                                                               |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| --------------------------------------------------------- | ------------------------------------ |
 | 1. Project-1 Party Tips                                   | [Live Demo](https://nktkr-onemonth.pages.dev/1.%20Project_1_Party_Tips/)                                     |
 | 2. Project-2 Cookies Monster                              | [Live Demo](https://nktkr-onemonth.pages.dev/2.%20Project_2_cookie-monster/)                                 |
 | 3. week-1-chalange-create-a-portfolio-website of-your-own | [Live Demo](https://nktkr-onemonth.pages.dev/3.%20week-1-chalange-create-a-portfolio-website%20of-your-own/) |
