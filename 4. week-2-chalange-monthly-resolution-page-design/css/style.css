@@ -92,6 +92,8 @@ hr {
 
 .resolution-descrption {
   color: rgb(180, 180, 180);
+  margin-bottom: 70px;
+ 
 }
 
 blockquote {
@@ -112,13 +114,21 @@ blockquote::before {
 /* styling the text */
 .the-only-heading {
   font-size: 55px;
-  font-weight: 800;
-  margin-bottom: 2px;
+  font-weight: 1000;
+  margin-bottom: 1px;
   line-height: 1;
 }
 .below-the-main-heading {
   font-size: 15px;
   font-weight: 650;
   margin-bottom: 35px;
+  margin-left: 5px;
+  line-height: 1;
+}
+
+.blog-heading{
+  font-size: 27px;
+  font-weight: 800;
+  margin-bottom: 10px;
   line-height: 1;
 }
