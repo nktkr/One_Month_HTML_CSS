@@ -22,7 +22,68 @@ Author: Ankit Kr Singh | @nktkr
 /*----------------------------------------------------------------------------- 
 02=LAYOUT  
 -----------------------------------------------------------------------------*/
+#container {
+  width: 1000px;
+  margin: 0 auto 0 auto;
+}
 
+#sidebar {
+     background: white;
+     width: 395px;
+     padding: 15px;
+     float: left;
+
+}
 /*----------------------------------------------------------------------------- 
 03=MAIN  
 -----------------------------------------------------------------------------*/
+#main {
+  padding: 20px;
+  width: 595px;   
+  margin-right : 10px;
+    float: left;  
+  background-color: white;
+
+}
+
+body {
+  background: url('../images/notebook.png'); /* add a fallback color of #d6d6d6 */
+  color: #000000;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.7; /* line-height is unit-less */
+  font-size: 100%;
+  
+ } 
+
+ /* other syling */
+
+ .profile-pic{
+  width: 125px;
+  border-radius: 50%;
+ }
+ 
+ footer{
+  width: 595px;
+  float: left;
+ }
+
+ /* !hyperlink colouring */
+ /* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(165, 21, 226);
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}

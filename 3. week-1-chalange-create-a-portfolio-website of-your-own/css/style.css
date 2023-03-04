@@ -12,7 +12,8 @@ body {
 	/* the follow is the code to have the image display as a full page */
 	background-position: center;
 	background-attachment: fixed;
-	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-webkit-background-size: cover; 
+	/* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
