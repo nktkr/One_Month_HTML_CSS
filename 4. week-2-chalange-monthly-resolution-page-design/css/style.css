@@ -26,7 +26,7 @@ Author: Ankit Kr Singh | @nktkr
 body {
   background: url("../images/notebook.png"); /* add a fallback color of #d6d6d6 */
   color: #000000;
-  font-family: "Lato", sans-serif;
+  font-family: 'Lato', sans-serif;
   line-height: 1.7; /* line-height is unit-less */
   font-size: 100%;
 }
