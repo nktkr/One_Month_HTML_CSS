@@ -28,47 +28,44 @@ Author: Ankit Kr Singh | @nktkr
 }
 
 #sidebar {
-     background: white;
-     width: 395px;
-     padding: 15px;
-     float: left;
-
+  background: white;
+  width: 360px;
+  padding: 30px;
+  float: left;
 }
 /*----------------------------------------------------------------------------- 
 03=MAIN  
 -----------------------------------------------------------------------------*/
 #main {
   padding: 20px;
-  width: 595px;   
-  margin-right : 10px;
-    float: left;  
+  width: 595px;
+  margin-right: 10px;
+  float: left;
   background-color: white;
-
 }
 
 body {
-  background: url('../images/notebook.png'); /* add a fallback color of #d6d6d6 */
+  background: url("../images/notebook.png"); /* add a fallback color of #d6d6d6 */
   color: #000000;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   line-height: 1.7; /* line-height is unit-less */
   font-size: 100%;
-  
- } 
+}
 
- /* other syling */
+/* other syling */
 
- .profile-pic{
+.profile-pic {
   width: 125px;
   border-radius: 50%;
- }
- 
- footer{
+}
+
+footer {
   width: 595px;
   float: left;
- }
+}
 
- /* !hyperlink colouring */
- /* unvisited link */
+/* !hyperlink colouring */
+/* unvisited link */
 a:link {
   color: red;
 }
@@ -86,4 +83,42 @@ a:hover {
 /* selected link */
 a:active {
   color: blue;
+}
+
+/* styling page break */
+hr {
+  border-style: groove;
+}
+
+.resolution-descrption {
+  color: rgb(180, 180, 180);
+}
+
+blockquote {
+  position: relative;
+  padding-left: 20px; /* adjust as needed */
+}
+
+blockquote::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 5px;
+  background-color: rgb(201, 201, 201);
+}
+
+/* styling the text */
+.the-only-heading {
+  font-size: 55px;
+  font-weight: 800;
+  margin-bottom: 2px;
+  line-height: 1;
+}
+.below-the-main-heading {
+  font-size: 15px;
+  font-weight: 650;
+  margin-bottom: 35px;
+  line-height: 1;
 }
