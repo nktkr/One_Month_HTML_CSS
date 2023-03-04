@@ -22,11 +22,19 @@ Author: Ankit Kr Singh | @nktkr
 /*----------------------------------------------------------------------------- 
 02=LAYOUT  
 -----------------------------------------------------------------------------*/
+
+body {
+  background: url("../images/notebook.png"); /* add a fallback color of #d6d6d6 */
+  color: #000000;
+  font-family: "Lato", sans-serif;
+  line-height: 1.7; /* line-height is unit-less */
+  font-size: 100%;
+}
+
 #container {
   width: 1000px;
   margin: 0 auto 0 auto;
 }
-
 #sidebar {
   background: white;
   width: 360px;
@@ -42,14 +50,6 @@ Author: Ankit Kr Singh | @nktkr
   margin-right: 10px;
   float: left;
   background-color: white;
-}
-
-body {
-  background: url("../images/notebook.png"); /* add a fallback color of #d6d6d6 */
-  color: #000000;
-  font-family: "Lato";
-  line-height: 1.7; /* line-height is unit-less */
-  font-size: 100%;
 }
 
 /* other syling */
@@ -93,7 +93,6 @@ hr {
 .resolution-descrption {
   color: rgb(180, 180, 180);
   margin-bottom: 70px;
- 
 }
 
 blockquote {
@@ -126,7 +125,7 @@ blockquote::before {
   line-height: 1;
 }
 
-.blog-heading{
+.blog-heading {
   font-size: 27px;
   font-weight: 750;
   margin-bottom: 10px;
