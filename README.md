@@ -1,6 +1,6 @@
 # One_Month_HTML_CSS
 
-> I created this repository to collect all the learning outcomes, code along exercices, weekly challeges from the course from [OneMonth.com/html/curriculam](https://onemonth.com/courses/html/curriculum).
+> I created this repository to collect all the learning outcomes, code along exercices, weekly challeges, projects from the course from [OneMonth.com/html/curriculam](https://onemonth.com/courses/html/curriculum).
 
 ## Checkout the deployed project
 

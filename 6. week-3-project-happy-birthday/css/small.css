@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.hero img {
+  border-radius: 0 0 0 0;
+}
+
+aside.left {
+  text-align: center;
+  float: inherit;
+}
+aside.right {
+  text-align: center;
+  float: inherit;
+}

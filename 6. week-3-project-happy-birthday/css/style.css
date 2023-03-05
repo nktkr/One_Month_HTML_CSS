@@ -2,10 +2,9 @@
  * General Styles
 */
 
-
 body {
-  background: #DDD;
-  font-family: 'Open Sans', arial, sans-serif;
+  background: #ddd;
+  font-family: "Open Sans", arial, sans-serif;
 }
 
 * {
@@ -38,17 +37,16 @@ ul li {
  * Heading Styles
 */
 
-
-h1, h2 {
-  font-family: 'Lobster', cursive;
+h1,
+h2 {
+  font-family: "Lobster", cursive;
   color: #e22f8f;
   text-align: center;
   margin-bottom: 32px;
 }
 
 h1 {
-
-  font-size: 16px;
+  font-size: 40px;
 }
 
 h2 {
@@ -62,8 +60,38 @@ h2 {
 .container {
   width: 600px;
   margin: 100px auto;
-  background: #FFF;
+
 }
 
+section.intro {
+  background: #fff;
+}
 
+section.intro,
+section.contact {
+  padding: 40px;
+}
 
+.hero{
+  line-height: 0px;
+}
+
+.hero img {
+  width: 100%;
+  border-radius: 20px 20px 0 0;
+}
+
+aside{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+aside.left {
+  float: left;
+}
+aside.right {
+  float: right;
+}
+
+.contact{
+  text-align: center;
+}

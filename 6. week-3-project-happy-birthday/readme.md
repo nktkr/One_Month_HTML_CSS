@@ -1,3 +1,8 @@
+## Approach to built this website
+We are gonna use mobile first approach where we will first design the website for the mobile and enhance the same for desktop.
+
+
+## All the text data to put on the website is below
 #Hiya! You can use this body copy so that you don't have to type if all yourself. 
 
 #Title
