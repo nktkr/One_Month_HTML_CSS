@@ -3,8 +3,13 @@
 */
 
 body {
-  background: #ddd;
-  font-family: "Open Sans", arial, sans-serif;
+  background: url('../images/space-background.png');
+  font-family: 'Open Sans', arial, sans-serif;
+
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 * {
@@ -72,6 +77,9 @@ section.contact {
   padding: 40px;
 }
 
+section.contact{
+  background: rgb(220, 219, 219);
+}
 .hero{
   line-height: 0px;
 }
@@ -81,17 +89,19 @@ section.contact {
   border-radius: 20px 20px 0 0;
 }
 
-aside{
-  padding-left: 20px;
-  padding-right: 20px;
-}
+
 aside.left {
   float: left;
 }
+
 aside.right {
   float: right;
 }
 
+aside {
+  margin-right: 1.5rem;
+  margin-bottom: 0.625rem;
+}
 .contact{
   text-align: center;
 }
