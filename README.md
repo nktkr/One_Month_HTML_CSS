@@ -10,4 +10,5 @@
 | 2. Project-2 Cookies Monster                              | [Live Demo](https://nktkr-onemonth.pages.dev/2.%20Project_2_cookie-monster/)                                 |
 | 3. week-1-chalange-create-a-portfolio-website of-your-own | [Live Demo](https://nktkr-onemonth.pages.dev/3.%20week-1-chalange-create-a-portfolio-website%20of-your-own/) |
 | 4. week-2-chalange-monthly-resolution-page-design         | [Live Demo](https://nktkr-onemonth.pages.dev/4.%20week-2-chalange-monthly-resolution-page-design/)           |
-| 5. week-2-the-cat-blog                                    | [Live Demo](https://nktkr-onemonth.pages.dev/5.%20week-2-the-cat-blog/)                                      |
+| 5. week-2-the-cat-blog                                    | [Live Demo](https://nktkr-onemonth.pages.dev/5.%20week-2-the-cat-blog/)                            |
+|6. week 3 code along project happy birthday page| [Live Demo]()|
